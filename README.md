@@ -8,4 +8,7 @@ This research paper focuses on the viability of socially responsible investing (
 
 The project was fully comprehensive. I had to find the data sources, download the data, format and combine the datasets/tables, run regressions on the manipulated data, and then analyze my results.
 
+Requisites:
+Stata13
+
 In order to run the code, the data (.dta files; I did not include my .do files used to combine and format the multiple tables I had originally) and the .do files should be placed in the same directory. Then, in Stata, the run.do file should be called. The entire process takes around 10-15 minutes because the data files contain hundreds of thousands of data points. Multiple instances can be run on smaller chunks of the data to expedite the run time.
